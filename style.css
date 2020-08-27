@@ -7,15 +7,18 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  font-family: sans-serif;
   
 }
 h1 {
-  color: darkolivegreen;
-  padding: 5px;
+  color: darkblue;
+  padding: 10px;
+  justify-content: center;
 }
 
 .middle {
   margin-top: 1.3rem;
+  color: crimson;
 }
 
 .middle button {
