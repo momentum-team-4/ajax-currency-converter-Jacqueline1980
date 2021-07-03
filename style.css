@@ -3,3 +3,31 @@
   margin: 0;
   padding: 0;
 }
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: sans-serif;
+  
+}
+h1 {
+  color: darkblue;
+  padding: 10px;
+  justify-content: center;
+}
+
+.middle {
+  margin-top: 1.3rem;
+  color: crimson;
+}
+
+.middle button {
+  display: flex;
+  height: 30px;
+  width: 30px;
+  color: blue;
+  margin-bottom: 2rem;
+  justify-content: center;
+  align-items: center;
+
+}
